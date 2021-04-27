@@ -6,6 +6,24 @@ layout: null
 
 /* --- General --- */
 
+/* --- Custom Begin --- */
+
+/* Reduce space around paragraphs */
+p.close { margin:0 }
+
+/* Align images */
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
+/* --- Custom End --- */
+
 html {
   font-size: 100%
 }
