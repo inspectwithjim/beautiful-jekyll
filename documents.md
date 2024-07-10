@@ -7,7 +7,8 @@ redirect_from:
   - /ghi/documents
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
- 
+
+#### The business has retired. The website will remain as-is for posterity.
 I encourage my customers to be both knowledgeable and aware of the inspection process and the agreements made.  I always welcome any questions that you may have about the inspection process or agreements.
 
 #### [Sample Home Inspection Report (PDF)](/documents/inspection_report_sample.pdf "Sample Home Inspection Report (PDF)")  
