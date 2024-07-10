@@ -8,6 +8,8 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
+### The business has retired. The website will remain as-is for posterity.
+
 ![inspection](/images/inspection/inspection.png#right)
 The American Society of Home Inspectors (ASHI), established in 1976, is the oldest, most respected, most referred to, and the most requiring professional organization of home inspectors. It was the first to set a high bar for home inspections as a profession, and it has continued as the defining source for
 inspection standards of practice and code of ethics. I became a member of ASHI in 1996, and retired my membership in 2021. In 2003 the State of Virginia DPOR created a voluntary VA State Certification for home inspectors. I was the 58th home inspector to become VA State Certified, in 2003. The VA DPOR
