@@ -8,7 +8,8 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
-* Full time independent home inspector since 1995
+### The business has retired. The website will remain as-is for posterity.
+* Full time independent home inspector 1995 to 2023
 * Member of ASHI 1996 to 2020   #200890
 * 6,200+ home inspections; 2400+ radon tests
 * VA State Certified home inspector since 2003 and VA Licensed in 2017 #3380-000058
