@@ -8,7 +8,7 @@ redirect_fromradon
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
-### The business has retired. The website will remain as-is for posterity.
+#### The business has retired. The website will remain as-is for posterity.
 Radon is a cancer-causing radioactive gas. The Surgeon General has warned that radon is the second leading cause of lung cancer in the United States. The National Academy of Sciences estimates that radon causes between 15,000 and 22,000 lung cancer deaths each year.
  
 The U.S. Geological Survey shows central Virginia to be a moderate to high potential zone for elevated radon gas levels. Health risks for radon gas are far greater than for mold, asbestos, or other popular environmental concerns. It is prudent to test for radon when purchasing a home.
