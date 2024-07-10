@@ -8,7 +8,7 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
-## The business has retired. The website will remain as-is for posterity.
+#### The business has retired. The website will remain as-is for posterity.
 ### Contact Jim Gannon 
 --- 
 #### He was available by phone - anytime... 
