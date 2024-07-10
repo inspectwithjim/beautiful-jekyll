@@ -7,6 +7,7 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
+### The business has retired. The website will remain as-is for posterity.
 ### More than worth it!
 
 #### Home Inspections:
