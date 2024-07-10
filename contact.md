@@ -8,11 +8,12 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
+### The business has retired. The website will remain as-is for posterity.
 ### Contact Jim Gannon 
 --- 
-#### Call Me: 434-263-6521 anytime... 
+#### Call Me: ---_---_---- anytime... 
 
-This is my office phone. If I am away from my desk I am call-forwarded to my cell phone, so I am always available, either directly or via voice mail. Call me anytime for any questions.  Or, email:  inspectwithjim@verizon.net; or inspectwithjim@gmail.com.
+This is my office phone. If I am away from my desk I am call-forwarded to my cell phone, so I am always available, either directly or via voice mail. Call me anytime for any questions.  Or, email:  inspectwithjim@---.---.
 
 Please know you are strongly encouraged to attend the inspection. This is for your benefit. You will learn a lot. If you cannot be there, your written report will provide all that you need. Always feel free to call me with any questions.
 
