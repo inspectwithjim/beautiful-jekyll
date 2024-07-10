@@ -10,7 +10,7 @@ cover-img:
   - "/images/index/logo_index.jpg"
 ---
 
-### The business has retired. The website will remain as-is for posterity.
+#### The business has retired. The website will remain as-is for posterity.
 ### Provided Virginia Licensed Home Inspections and NRSB Certified Radon Testing
 ---
 
