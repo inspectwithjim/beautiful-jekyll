@@ -8,6 +8,7 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
+### The business has retired. The website will remain as-is for posterity.
 ### Philosophy
 ![inspection](/images/philosophy/philosophy.png#right)
 As a professional home inspector, my objective is to enable my customers to make intelligent choices. To accomplish that, I must fully inform you, my customer, of the physical conditions of your potential new home and all of its systems. 
