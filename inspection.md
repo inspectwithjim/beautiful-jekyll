@@ -8,7 +8,7 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
-### The business has retired. The website will remain as-is for posterity.
+#### The business has retired. The website will remain as-is for posterity.
 
 ![inspection](/images/inspection/inspection.png#right)
 The American Society of Home Inspectors (ASHI), established in 1976, is the oldest, most respected, most referred to, and the most requiring professional organization of home inspectors. It was the first to set a high bar for home inspections as a profession, and it has continued as the defining source for
