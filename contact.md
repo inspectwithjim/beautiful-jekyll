@@ -8,10 +8,10 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
-### The business has retired. The website will remain as-is for posterity.
+## The business has retired. The website will remain as-is for posterity.
 ### Contact Jim Gannon 
 --- 
-#### Call Me: ---_---_---- anytime... 
+#### He was available by phone - anytime... 
 
 This is my office phone. If I am away from my desk I am call-forwarded to my cell phone, so I am always available, either directly or via voice mail. Call me anytime for any questions.  Or, email:  inspectwithjim@---.---.
 
