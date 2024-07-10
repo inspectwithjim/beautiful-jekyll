@@ -10,7 +10,8 @@ cover-img:
   - "/images/index/logo_index.jpg"
 ---
 
-### Providing Virginia Licensed Home Inspections and NRSB Certified Radon Testing
+### The business has retired. The website will remain as-is for posterity.
+### Provided Virginia Licensed Home Inspections and NRSB Certified Radon Testing
 ---
 
 <p>
@@ -23,31 +24,31 @@ cover-img:
 <p>
  <img src="/images/index/vss.gif" alt="ASHI" align="left"><span><small>Virginia State Licensed Home Inspector</small></span>
  <br>
- <span class="ban2"><small>Certified Since 2003 - DPOR # 3380-000058</small></span>
+ <span class="ban2"><small>Certified 2003 to 2023</small></span>
   <br>
 </p>
 
 <p>
  <img src="/images/index/varei.gif" alt="ASHI" align="left"><span><small>Virginia Association of Real Estate Inspectors</small></span>
  <br>
- <span class="ban2"><small>Member Since 2000</small></span>
+ <span class="ban2"><small>Member 2000 to 2023</small></span>
   <br>
 </p>
 
 <p>
  <img src="/images/index/neha.png" alt="ASHI" align="left"><span><small>National Radon Safety Board</small></span>
  <br>
- <span class="ban2"><small>Certified Radon Testing Since 2001</small></span>
+ <span class="ban2"><small>Certified Radon Testing 2001 to 2023</small></span>
   <br>
 </p>
 
 <p>
  <img src="/images/index/bpil.gif" alt="ASHI" align="left"><span><small>Building Performance Institute</small></span>
  <br>
- <span class="ban2"><small>Certified Building Analyst Since 2007</small></span>
+ <span class="ban2"><small>Certified Building Analyst 2007 to 2023</small></span>
   <br>
 </p>
 
 ---
 #### Serving Central Virginia
-Charlottesville is my business hub and I also support Albemarle, Fluvanna, Louisa,  Nelson, Amherst, and Augusta Counties of Virginia.
+Charlottesville was my business hub and I also supported Albemarle, Fluvanna, Louisa,  Nelson, Amherst, and Augusta Counties of Virginia.
