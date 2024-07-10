@@ -9,6 +9,8 @@ redirect_from:
 
 ---
 
+### The business has retired. The website will remain as-is for posterity.
+
 * Learn about my trade organization:
 
     [ASHI - American Society of Home Inspectors](https://www.homeinspector.org/ "ASHI - American Society of Home Inspectors")
