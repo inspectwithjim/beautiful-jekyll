@@ -7,6 +7,7 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
+#### The business has retired. The website will remain as-is for posterity.
 * 1995 HomeTech Information Systems Inc, 60 hours home inspector training seminar
 * 1996 to 2020 member American Society of Home Inspectors
 * 2000 member Virginia Association of Real Estate Inspectors (VAREI)
