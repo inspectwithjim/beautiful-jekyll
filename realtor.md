@@ -8,6 +8,7 @@ redirect_from:
 ---
 <img src="/images/logo.png" alt="logo" title="logo" width="120%" height="120%" />
 
+### The business has retired. The website will remain as-is for posterity.
 Most real estate transactions involve realtors. They are usually the hub, the traffic cop around which most of the transaction activities revolve. They are a key player on your team.
  
 I enjoy working with realtors. In fact, I was one, and further, about half of my business comes via realtors. I am, however, vigilant to maintain independence from them and accept no influence from them, and have no affiliations or arrangements with them.
