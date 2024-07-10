@@ -12,7 +12,7 @@ redirect_from:
 * Full time independent home inspector 1995 to 2023
 * Member of ASHI 1996 to 2020   #200890
 * 6,200+ home inspections; 2400+ radon tests
-* VA State Certified home inspector 2003 to 2023 and VA Licensed in 2017 #3380-000058
+* VA State Certified home inspector 2003 to 2022 and VA Licensed in 2017 #3380-000058
 * NEHA/NRPP/NRSB certified for radon testing since 2001 #102273RT
 * Home Energy Tune-Up certified in 2007 for energy auditing
 * Building Performance Institute certified in 2007 in the study of building science and energy use
