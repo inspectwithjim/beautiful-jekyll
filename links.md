@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-### The business has retired. The website will remain as-is for posterity.
+#### The business has retired. The website will remain as-is for posterity.
 
 * Learn about my trade organization:
 
